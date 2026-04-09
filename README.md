@@ -1,4 +1,3 @@
-# I'm Gabriel 👋
+<h1 align="center">I'm Gabriel 👋</h1>
 
-[<img alt="my stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=gabrieldpbarros&theme=merko"/>]: #
-[<img alt="top langs" align="left" width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldpbarros&layout=compact&theme=merko"/>]: #
+<h2 align="center">🤔 Whoami</h2>
